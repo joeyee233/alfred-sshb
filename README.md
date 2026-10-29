@@ -4,8 +4,8 @@
 
 ## 🔧 安装
 
-1. 安装[SSHB](https://github.com/zhiozhou/sshb)
-2. 下载[工作流](https://github.com/zhiozhou/alfred-sshb/releases)并安装
+1. 安装[SSHB](https://github.com/joeyee233/sshb)
+2. 下载[工作流](https://github.com/joeyee233/alfred-sshb/releases)并安装
 
 ## ⚙️ 使用
 
