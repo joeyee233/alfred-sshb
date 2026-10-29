@@ -1,6 +1,6 @@
 # SSH Bastionhost Workflow for Alfred 3
 
-[SSHB](https://github.com/zhiozhou/sshb)适配Alfred工作流，更多查看[SSHB](https://github.com/zhiozhou/sshb)
+[SSHB](https://github.com/joeyee233/sshb)适配Alfred工作流，更多查看[SSHB](https://github.com/zhiozhou/sshb)
 
 ## 🔧 安装
 
